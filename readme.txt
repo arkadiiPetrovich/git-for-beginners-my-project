@@ -1,4 +1,4 @@
 Welcome to MyProject 2
 
-Author: Thomas
+Author: Thomas Claudius
 Twitter: @thomasclaudiush
